@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hey, I'm Tee 👋
 
-<!--
-**Tee-Clouds/tee-clouds** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔐 Cybersecurity enthusiast on the path to **Cloud Security Engineering**
+📍 Melbourne, FL | CompTIA Security+
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧰 Skills & Tools
+- **Security:** Nmap, Metasploit, Wireshark, Active Directory, Kali Linux
+- **Cloud:** AWS (IAM, EC2, S3) — in progress
+- **OS:** Windows Server 2022, Ubuntu 22.04, Kali Linux
+- **Scripting:** Python, PowerShell, Bash (in progress)
+- **Virtualization:** VirtualBox, VMware
+
+---
+
+## 🔭 What I'm Working On
+- Building a cybersecurity home lab (pentesting, AD attacks, traffic analysis)
+- Studying toward **AWS Solutions Architect Associate**
+- Developing cloud security skills for an entry-level Cloud Security Engineer role
+
+---
+
+## 📜 Certifications
+- ✅ CompTIA Security+
+
+---
+
+## 📂 Featured Projects
+- 🔬 [Cybersecurity Home Lab](https://github.com/Tee-Clouds/cybersecurity-home-lab) — Pentest reports, network scans, AD enumeration & exploitation labs
+
+---
+
+> *"Stay curious. Stay dangerous."*
